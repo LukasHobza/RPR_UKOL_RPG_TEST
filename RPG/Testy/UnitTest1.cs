@@ -78,6 +78,11 @@ namespace Testy
             Assert.AreEqual(dan.getXP(), 0);
         }
 
-
+        //10
+        [TestMethod]
+        public void addXPTest()
+        {
+            Assert.AreEqual(dan.addXP(10,20), 30);
+        }
     }
 }

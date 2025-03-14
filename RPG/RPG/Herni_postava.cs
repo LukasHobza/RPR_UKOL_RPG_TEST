@@ -13,6 +13,15 @@ namespace RPG
 
         }
 
+        public int addXP(int currentXP, int addXP)
+        {
+
+            //jeste by to melo pridavat level
+
+            return addXP+currentXP;
+        }
+
+
         public string getName()
         {
             return "jmeno";
