@@ -1,0 +1,9 @@
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\bin\Debug\RPG.exe.config
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\bin\Debug\RPG.exe
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\bin\Debug\RPG.pdb
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\obj\Debug\RPG.exe
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\RPG\RPG\obj\Debug\RPG.pdb
