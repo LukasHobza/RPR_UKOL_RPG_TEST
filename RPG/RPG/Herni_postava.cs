@@ -25,7 +25,7 @@ namespace RPG
         public int addLvl(int level)
         {
 
-            return 2 + 1;
+            return level + 1;
         }
 
         public int xpToNextLvl(int level)
