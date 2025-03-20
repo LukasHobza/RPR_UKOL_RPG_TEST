@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using RPG;
+using System.IO.Pipes;
 
 namespace Testy
 {
@@ -8,8 +9,9 @@ namespace Testy
     public class UnitTest1
     {
         Form1 form1 = new Form1();
-        Herni_postava postavicka = new Herni_postava();
-        Hrac dan = new Hrac();
+        Herni_postava postavicka = new Herni_postava("Lukas");
+        Hrac dan = new Hrac("Dan");
+        NPC natalka = new NPC("Natalka",true,"prace");
 
         //1
         [TestMethod]
@@ -83,6 +85,48 @@ namespace Testy
         public void addXPTest()
         {
             Assert.AreEqual(dan.addXP(10,20), 30);
+        }
+        //11
+        [TestMethod]
+        public void ToStringTest()
+        {
+            string result = dan.ToString();
+
+            
+            StringAssert.Contains("Postava", result);
+            StringAssert.Contains("1", result);
+            StringAssert.Contains("0", result);
+            StringAssert.Contains("0", result);
+        }
+        //12
+        [TestMethod]
+        public void KonstruktorTest()
+        {
+            Assert.IsNotNull(postavicka);
+            Assert.AreEqual("Lukas", postavicka.getName());
+        }
+        //13
+        [TestMethod]
+        public void PraceTest()
+        {
+            Assert.IsTrue(
+                  natalka.getPrace() == "Obchodník"
+               || natalka.getPrace() == "Nepřítel"
+               || natalka.getPrace() == "Obyvatel");
+        }
+        //14
+        [TestMethod]
+        public void BossTest()
+        {
+            Assert.IsTrue(natalka.getStrenght());
+        }
+        //15
+        public void Konstruktor2Test()
+        {
+            Assert.IsNotNull(natalka);
+            Assert.AreEqual("Natalka", natalka.getName());
+            Assert.AreEqual(true, natalka.getStrenght());
+            Assert.AreEqual("prace", natalka.getPrace());
         }
     }
 }

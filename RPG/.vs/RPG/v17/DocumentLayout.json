@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF593741-86B1-426B-8831-57D78FAF2648}|Testy\\Testy.csproj|c:\\users\\daniel.srv.000\\documents\\rpr\\rpr_ukol_rpg_test\\rpg\\testy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF593741-86B1-426B-8831-57D78FAF2648}|Testy\\Testy.csproj|solutionrelative:testy\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|c:\\users\\daniel.srv.000\\documents\\rpr\\rpr_ukol_rpg_test\\rpg\\rpg\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|solutionrelative:rpg\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\rpg\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|solutionrelative:rpg\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\rpg\\herni_postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|solutionrelative:rpg\\herni_postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{475B0AD6-5D00-40C5-A916-0969F98496E9}|RPG\\RPG.csproj|solutionrelative:rpg\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hrac.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\Hrac.cs",
+              "RelativeDocumentMoniker": "RPG\\Hrac.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\Hrac.cs",
+              "RelativeToolTip": "RPG\\Hrac.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:20:40.378Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\NPC.cs",
+              "RelativeDocumentMoniker": "RPG\\NPC.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\NPC.cs",
+              "RelativeToolTip": "RPG\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:36:12.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\Testy\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Testy\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\Testy\\UnitTest1.cs",
+              "RelativeToolTip": "Testy\\UnitTest1.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAywIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:20:40.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Herni_postava.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\Herni_postava.cs",
+              "RelativeDocumentMoniker": "RPG\\Herni_postava.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\Herni_postava.cs",
+              "RelativeToolTip": "RPG\\Herni_postava.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:20:40.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\Form1.cs",
+              "RelativeDocumentMoniker": "RPG\\Form1.cs",
+              "ToolTip": "F:\\PRG\\04 C#\\github\\RPR_UKOL_RPG_TEST\\RPG\\RPG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-20T16:20:40.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

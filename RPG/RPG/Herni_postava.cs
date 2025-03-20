@@ -8,10 +8,11 @@ namespace RPG
 {
     public class Herni_postava
     {
-        public Herni_postava()
+        public Herni_postava(string Name)
         {
-
+            this.name = Name;
         }
+        private string name;
 
         public int addXP(int currentXP, int addXP)
         {
@@ -41,5 +42,12 @@ namespace RPG
         {
             return 0;
         }
+
+        public string ToString()
+        {
+            return getName() + ", " + getLevel() + ", " + getX() + ", " + getY();
+        }
+
+
     }
 }

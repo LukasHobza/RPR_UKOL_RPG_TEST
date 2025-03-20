@@ -8,6 +8,11 @@ namespace RPG
 {
     public class Hrac : Herni_postava
     {
+        private string name;
+        public Hrac(string Name) : base(Name)
+        { 
+            this.name = Name;
+        }
         public string getSpecialization()
         {
             return "specializace";
