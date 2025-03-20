@@ -11,7 +11,7 @@ namespace Testy
         Form1 form1 = new Form1();
         Herni_postava postavicka = new Herni_postava("Lukas");
         Hrac dan = new Hrac("Dan");
-        NPC natalka = new NPC("Natalka",true,"prace");
+        NPC daniel = new NPC("daniel",true,"prace");
 
         //1
         [TestMethod]
@@ -110,23 +110,60 @@ namespace Testy
         public void PraceTest()
         {
             Assert.IsTrue(
-                  natalka.getPrace() == "Obchodník"
-               || natalka.getPrace() == "Nepřítel"
-               || natalka.getPrace() == "Obyvatel");
+                  daniel.getPrace() == "Obchodník"
+               || daniel.getPrace() == "Nepřítel"
+               || daniel.getPrace() == "Obyvatel");
         }
         //14
         [TestMethod]
         public void BossTest()
         {
-            Assert.IsTrue(natalka.getStrenght());
+            Assert.IsTrue(daniel.getStrenght());
         }
         //15
         public void Konstruktor2Test()
         {
-            Assert.IsNotNull(natalka);
-            Assert.AreEqual("Natalka", natalka.getName());
-            Assert.AreEqual(true, natalka.getStrenght());
-            Assert.AreEqual("prace", natalka.getPrace());
+            Assert.IsNotNull(daniel);
+            Assert.AreEqual("daniel", daniel.getName());
+            Assert.AreEqual(true, daniel.getStrenght());
+            Assert.AreEqual("prace", daniel.getPrace());
         }
-    }
+
+        //idkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidkidk
+
+        //16
+        [TestMethod]
+        public void AddLvlTest()
+        {
+            Assert.AreEqual(daniel.addLvl(2), 3);
+        }
+
+        //17
+        [TestMethod]
+        public void xptonextlvltest()
+        {
+            Assert.AreEqual(daniel.xpToNextLvl(2), 200);
+        }
+
+    ////18
+    //[TestMethod]
+    //public void ()
+    //{
+    //    Assert.
+    //}
+
+    ////19
+    //[TestMethod]
+    //public void ()
+    //{
+    //    Assert.
+    //}
+
+    ////20
+    //[TestMethod]
+    //public void BossTes()
+    //{
+    //    Assert.
+    //}
+}
 }

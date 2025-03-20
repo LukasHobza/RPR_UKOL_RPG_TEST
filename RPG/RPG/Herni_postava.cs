@@ -22,6 +22,17 @@ namespace RPG
             return addXP+currentXP;
         }
 
+        public int addLvl(int level)
+        {
+
+            return 2 + 1;
+        }
+
+        public int xpToNextLvl(int level)
+        {
+
+            return level * 100;
+        }
 
         public string getName()
         {
