@@ -9,21 +9,21 @@ namespace Testy
     public class UnitTest1
     {
         Form1 form1 = new Form1();
-        Herni_postava postavicka = new Herni_postava("Lukas");
-        Hrac dan = new Hrac("Dan");
         NPC daniel = new NPC("daniel",true,"prace");
 
         //1
         [TestMethod]
         public void NameTest()
         {
-            Assert.IsTrue(postavicka.getName().Length <= 10);
+            Herni_postava postavicka = new Herni_postava("LukasLukasLukas");
+            Assert.AreNotEqual(postavicka.getName(), "LukasLukasLukas");
         }
 
         //2
         [TestMethod]
         public void LevelTest()
         {
+            Herni_postava postavicka = new Herni_postava("Lukas");
             Assert.AreEqual(postavicka.getLevel(), 1);
         }
 
@@ -31,6 +31,7 @@ namespace Testy
         [TestMethod]
         public void XTest()
         {
+            Herni_postava postavicka = new Herni_postava("Lukas");
             Assert.AreEqual(postavicka.getX(), 0);
         }
 
@@ -38,6 +39,7 @@ namespace Testy
         [TestMethod]
         public void YTest()
         {
+            Herni_postava postavicka = new Herni_postava("Lukas");
             Assert.AreEqual(postavicka.getY(), 0);
         }
 
@@ -45,7 +47,9 @@ namespace Testy
         [TestMethod]
         public void SpecializationTest()
         {
-            Assert.IsTrue(
+            Hrac dan = new Hrac("Dan");
+            dan.Specializace = "ABCD";
+            Assert.IsFalse(
                    dan.getSpecialization() == "Kouzelník" 
                 || dan.getSpecialization() == "Berserker"
                 || dan.getSpecialization() == "Inženýr"
@@ -56,6 +60,7 @@ namespace Testy
         [TestMethod]
         public void FaceTest()
         {
+            Hrac dan = new Hrac("Dan");
             Assert.AreEqual(dan.getFace(), 0);
         }
 
@@ -63,6 +68,7 @@ namespace Testy
         [TestMethod]
         public void HairTest()
         {
+            Hrac dan = new Hrac("Dan");
             Assert.AreEqual(dan.getHair(), 0);
         }
 
@@ -70,6 +76,7 @@ namespace Testy
         [TestMethod]
         public void HairColorTest()
         {
+            Hrac dan = new Hrac("Dan");
             Assert.AreEqual(dan.getHairColor(), 0);
         }
 
@@ -77,6 +84,7 @@ namespace Testy
         [TestMethod]
         public void XPTest()
         {
+            Hrac dan = new Hrac("Dan");
             Assert.AreEqual(dan.getXP(), 0);
         }
 
@@ -84,12 +92,14 @@ namespace Testy
         [TestMethod]
         public void addXPTest()
         {
+            Hrac dan = new Hrac("Dan");
             Assert.AreEqual(dan.addXP(10,20), 30);
         }
         //11
         [TestMethod]
         public void ToStringTest()
         {
+            Hrac dan = new Hrac("Dan");
             string result = dan.ToString();
 
             
@@ -102,6 +112,7 @@ namespace Testy
         [TestMethod]
         public void KonstruktorTest()
         {
+            Herni_postava postavicka = new Herni_postava("Lukas");
             Assert.IsNotNull(postavicka);
             Assert.AreEqual("Lukas", postavicka.getName());
         }

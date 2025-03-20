@@ -54,7 +54,7 @@ namespace RPG
             return 0;
         }
 
-        public string ToString()
+        public override string ToString()
         {
             return getName() + ", " + getLevel() + ", " + getX() + ", " + getY();
         }
