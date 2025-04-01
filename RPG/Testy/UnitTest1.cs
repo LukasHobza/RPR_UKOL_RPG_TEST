@@ -156,25 +156,35 @@ namespace Testy
             Assert.AreEqual(daniel.xpToNextLvl(2), 200);
         }
 
-    ////18
-    //[TestMethod]
-    //public void ()
-    //{
-    //    Assert.
-    //}
+        //18
+        [TestMethod]
+        public void Test_ChangePosition_ValidClick()
+        {
+            var character = new GameCharacter("Test");
+            character.ChangePosition(5, 10);  // Simulate left click changing position
+            Assert.AreEqual(5, character.PositionX);
+            Assert.AreEqual(10, character.PositionY);
+        }
 
-    ////19
-    //[TestMethod]
-    //public void ()
-    //{
-    //    Assert.
-    //}
+        ////19
+        [TestMethod]
+        public void Test_ToString()
+        {
+            var character = new GameCharacter("Test");
+            string result = character.ToString();
+            Assert.IsTrue(result.Contains("Test"));
+            Assert.IsTrue(result.Contains("1"));  // level 1
+            Assert.IsTrue(result.Contains("0"));  // position X
+            Assert.IsTrue(result.Contains("0"));  // position Y
+        }
 
-    ////20
-    //[TestMethod]
-    //public void BossTes()
-    //{
-    //    Assert.
-    //}
+        ////20
+        public void Konstruktor2Test()
+        {
+            Assert.IsNotNull(daniel);
+            Assert.AreEqual("daniel", daniel.getName());
+            Assert.AreEqual(true, daniel.getStrenght());
+            Assert.AreEqual("prace", daniel.getPrace());
+        }
 }
 }
