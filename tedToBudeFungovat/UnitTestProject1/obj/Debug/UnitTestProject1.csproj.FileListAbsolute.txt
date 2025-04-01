@@ -1,0 +1,43 @@
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\tedToBudeFungovat.exe
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\tedToBudeFungovat.pdb
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\tedToBudeFungovat.exe.config
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+G:\PRP3\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\tedToBudeFungovat.exe
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\tedToBudeFungovat.pdb
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\tedToBudeFungovat.exe.config
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\PRG\04 C#\github\RPR_UKOL_RPG_TEST\tedToBudeFungovat\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
