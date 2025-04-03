@@ -48,5 +48,10 @@ namespace tedToBudeFungovat
                 }
             }
         }
+
+        public override string ToString()
+        {
+            return "Jméno: " + Jmeno + ", Level: " + Level + ", XP: " + Xp + ", Specializace: " + Specializace;
+        }
     }
 }

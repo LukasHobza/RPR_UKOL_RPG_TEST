@@ -27,6 +27,10 @@ namespace tedToBudeFungovat
             this.sila = sila;
         }
         //PRIDALA JSEM JA
-  
+        public override string ToString()
+        {
+            return "Jméno: " + Jmeno + ", Level: " +Level +", Pozice: (" + PoziceX + ", " + PoziceY + "), Práce: " + prace + ", Boss: " + Sila;
+        }
     }
+    
 }

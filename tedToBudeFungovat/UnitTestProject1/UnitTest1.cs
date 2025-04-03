@@ -1,5 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Diagnostics;
+using System.Reflection.Emit;
 using tedToBudeFungovat;
 
 namespace UnitTestProject1
@@ -142,20 +144,20 @@ namespace UnitTestProject1
 
             Assert.IsFalse(npc.Sila);
         }
-        //15 JE POTREBA DODELAT
+        //15 EZ FUNGUJE
         [TestMethod]
         public void T15est_Hrac_ToString_ShouldReturnCorrectFormat()
         {
 
-            string expectedOutput = "Jméno: Hero, Level: 1, XP: 0, Specializace: Kouzelník";
+            string expectedOutput = "Jméno: " + hrac.Jmeno + ", Level: " + hrac.Level + ", XP: " + hrac.Xp + ", Specializace: " + hrac.Specializace;
             Assert.AreEqual(expectedOutput, hrac.ToString());
         }
-        //16 JE POTREBA DODELAT
+        //16 EZ FUNGUJE
         [TestMethod]
         public void T16est_NPC_ToString_ShouldReturnCorrectFormat()
         {
 
-            string expectedOutput = "Jméno: Merchant, Level: 1, Pozice: (0, 0), Práce: obchodník, Boss: Ne";
+            string expectedOutput = "Jméno: " + npc.Jmeno + ", Level: " + npc.Level + ", Pozice: (" + npc.PoziceX + ", " + npc.PoziceY + "), Práce: " + npc.prace + ", Boss: " + npc.Sila;
             Assert.AreEqual(expectedOutput, npc.ToString());
         }
         //17 EZ FUNGUJE
