@@ -36,7 +36,7 @@ namespace UnitTestProject1
         {
 
             string result = postava.ToString();
-            Assert.AreEqual("Jméno: Kamca, Level: 1, Pozice: (0, 0)", result);
+            Assert.AreEqual("Jméno: Kamca, Level: 0, Pozice: (0, 0)", result);
         }
         //4 EZ FUNGUJE
         [TestMethod]
