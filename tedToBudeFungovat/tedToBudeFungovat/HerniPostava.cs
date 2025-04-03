@@ -11,7 +11,8 @@ namespace tedToBudeFungovat
         public int PoziceX = 0;
         public int PoziceY = 0;
         private string jmeno;
-        
+        private bool pozZmen = false;
+
         public string Jmeno
         {
             get { return jmeno; }
@@ -38,12 +39,17 @@ namespace tedToBudeFungovat
 
         public void ZmenaPozice(int x, int y)
         {
-
+            if (!pozZmen)
+            {
+                PoziceX = x;
+                PoziceY = y;
+            }
+            pozZmen = true;
         }
 
         public override string ToString()
         {
-            return "Jméno: "+ jmeno +", Level: " + Level + ", Pozice: ("+PoziceX+", "+PoziceY + ")";
+            return "Jméno: " + jmeno + ", Level: " + Level + ", Pozice: (" + PoziceX + ", " + PoziceY + ")";
         }
     }
 }

@@ -21,7 +21,7 @@ namespace UnitTestProject1
             Assert.AreEqual(0, postava.PoziceX);
             Assert.AreEqual(0, postava.PoziceY);
         }
-        //2 JE POTREBA DODELAT
+        //2 Snad funguje, nejde pustit test
         [TestMethod]
         public void T02est_ZmenaPozice_ShouldUpdatePosition()
         {
@@ -87,7 +87,7 @@ namespace UnitTestProject1
 
             Assert.AreEqual("obchodník", npc.Prace.ToString());
         }
-        //9 JE POTREBA DODELAT
+        //9 Snad funguje, nejde pustit test
         [TestMethod]
         public void T09est_StaticPozice_CannotChangeOnceSet()
         {

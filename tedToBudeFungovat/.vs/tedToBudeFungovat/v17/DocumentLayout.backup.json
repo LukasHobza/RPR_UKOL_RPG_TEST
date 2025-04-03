@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3847C5-8E35-4D2F-BFD7-AADBB8549545}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\daniel.srv.000\\documents\\rpr\\rpr_ukol_rpg_test\\tedtobudefungovat\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3847C5-8E35-4D2F-BFD7-AADBB8549545}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedtobudefungovat\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|solutionrelative:tedtobudefungovat\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedtobudefungovat\\hernipostava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|solutionrelative:tedtobudefungovat\\hernipostava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedtobudefungovat\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|solutionrelative:tedtobudefungovat\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedtobudefungovat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{554A6307-D319-4120-A581-6BFC68DB3E5B}|tedToBudeFungovat\\tedToBudeFungovat.csproj|solutionrelative:tedtobudefungovat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\NPC.cs",
+              "RelativeDocumentMoniker": "tedToBudeFungovat\\NPC.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\NPC.cs",
+              "RelativeToolTip": "tedToBudeFungovat\\NPC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:02:39.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hrac.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\Hrac.cs",
+              "RelativeDocumentMoniker": "tedToBudeFungovat\\Hrac.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\Hrac.cs",
+              "RelativeToolTip": "tedToBudeFungovat\\Hrac.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:02:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HerniPostava.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\HerniPostava.cs",
+              "RelativeDocumentMoniker": "tedToBudeFungovat\\HerniPostava.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\HerniPostava.cs",
+              "RelativeToolTip": "tedToBudeFungovat\\HerniPostava.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:02:39.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:02:39.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\daniel.SRV.000\\Documents\\RPR\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\Form1.cs",
+              "RelativeDocumentMoniker": "tedToBudeFungovat\\Form1.cs",
+              "ToolTip": "D:\\other\\GitHub\\RPR_UKOL_RPG_TEST\\tedToBudeFungovat\\tedToBudeFungovat\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-04-03T18:02:40.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
