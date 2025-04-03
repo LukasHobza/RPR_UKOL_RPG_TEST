@@ -29,7 +29,7 @@ namespace tedToBudeFungovat
 
             }
         }
-        public int Level = 1;
+        public int Level = 0;
 
         public HerniPostava(string name)
         {

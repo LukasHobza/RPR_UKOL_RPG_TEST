@@ -43,7 +43,7 @@ namespace tedToBudeFungovat
                 Xp += xp;
                 if (Xp >= Level * 100)
                 {
-                    Level++;
+                    for (int i = 0; i < xp; i+=100) { Level++; }  
                     Xp = 0;
                 }
             }

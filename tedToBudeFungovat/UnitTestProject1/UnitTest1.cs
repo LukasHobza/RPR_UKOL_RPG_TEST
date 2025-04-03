@@ -167,7 +167,7 @@ namespace UnitTestProject1
 
             Assert.AreEqual(0, hrac.Xp);
         }
-        //18 JE POTREBA DODELAT
+        //18 EZ FUNGUJE
         [TestMethod]
         public void T18est_Hrac_LevelUp_MultipleTimes()
         {
